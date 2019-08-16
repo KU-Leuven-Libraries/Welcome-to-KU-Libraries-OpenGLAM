@@ -6,7 +6,7 @@ The GitHub repository of the KU Leuven Libraries provides a space for generating
 
 # Documentary Heritage
 
-In the context of documentary heritage a document is considered as a transmissive, reproducible form of mobile record that captures diverse aspects of social organisation, systems of thought and cultural agencies. Documents can reify the collective memory of smaller or larger communities, shaping certain material, mental or experiential shared realities.
+In the context of documentary heritage a document is considered as a transmissive, reproducible and semantically rich form of mobile record that captures diverse aspects of social organisation, systems of thought and cultural agencies. Documents can reify the collective memory of smaller or larger communities, shaping certain material, mental or experiential shared realities.
 
   
 
