@@ -1,6 +1,6 @@
 # KU Leuven Libraries on GitHub
 
-The GitHub repository of the KU Leuven Libraries provides a space for generating and sharing discussion, raising awareness and inspiring the exploration of documentary heritage in KU Leuven Libraries’ collections. It makes available resources in the form of open datasets, code and cookbooks for working with digitised documentary heritage through computational methods, integrating the Libraries’ digitized heritage collections for data driven scholarship.
+The GitHub repository of the KU Leuven Libraries provides a space for generating and sharing discussion, raising awareness and inspiring the exploration of documentary heritage in KU Leuven Libraries’ collections. It makes available resources in the form of open datasets, code and cookbooks for working with digitised documentary heritage through computational methods, integrating the Libraries’ digitised heritage collections for data driven scholarship.
 
   
 
