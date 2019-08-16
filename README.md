@@ -10,11 +10,11 @@ In the context of documentary heritage a document is considered as a transmissiv
 
   
 
-# Digitized Collections
+# Digitised Collections
 
 KU Leuven Libraries is a staunch advocate for digitisation as a means of preserving our cultural past and safeguarding it to the future as a human right, contending also with its own experience through dark heritage events (the library and its collections have a traumatic history being [burned down twice](https://bib.kuleuven.be/english/about/hIistory-tourism) before regenerating into its contemporary being).
 
-Its [digitized documentary heritage collections](https://limo.libis.be/primo-explore/collectionDiscovery?vid=KULeuven&collectionId=81386064490001488&lang=en_US) encompass a living database of more than 85.000 works within a 1200 years timespan, ranging from the Late Antiquity through the European, Mediterranean and Middle East geographies to the 20th century world history of living memory.
+Its [digitised documentary heritage collections](https://limo.libis.be/primo-explore/collectionDiscovery?vid=KULeuven&collectionId=81386064490001488&lang=en_US) encompass a living database of more than 85.000 works within a 1200 years timespan, ranging from the Late Antiquity through the European, Mediterranean and Middle East geographies to the 20th century world history of living memory.
 
   
 
